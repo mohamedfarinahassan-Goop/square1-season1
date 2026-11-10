@@ -1,0 +1,9 @@
+# Competition data is not redistributed: download it from the Square1 contest page.
+data/
+submissions/
+*.csv
+*.pkl
+*.npy
+__pycache__/
+*.pyc
+.env

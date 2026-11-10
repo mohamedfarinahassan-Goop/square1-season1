@@ -1,0 +1,9 @@
+base 3-seed CV 123.08228084867577 [674, 930, 657]
+l127 3-seed CV 122.90929311092512 [847, 1075, 1249]
+l31ff5 3-seed CV 123.44550933865753 [651, 766, 1135]
+v3 best l127 5-seed CV 122.37549552958508
+no meaningful gain; not writing
+
+real	1m39.436s
+user	6m27.436s
+sys	0m2.825s
